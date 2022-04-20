@@ -4,7 +4,10 @@ import NavBar from "./components/navbar/navbar";
 
 function App() {
   return (
-    <header>
+    <header style={{
+      display: 'flex',
+      justifyContent: 'center'
+    }}>
       <NavBar />
       <Header />
     </header>
