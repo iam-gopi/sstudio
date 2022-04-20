@@ -1,0 +1,22 @@
+.vertical-center {
+  display: flex;
+  align-items: center;
+  height: 680px;
+}
+
+.company-name {
+  font-weight: 700;
+  font-size: 54px;
+}
+
+.icon {
+  width: 1.8rem;
+}
+
+.fw-700 {
+  font-weight: 700;
+}
+
+.fs-1 {
+  font-size: 23px;
+}
